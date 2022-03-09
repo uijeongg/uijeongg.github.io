@@ -18,6 +18,19 @@
 
 [SourceTree를 활용한 Git 사용법](https://www.youtube.com/watch?v=GDXfrJwYfDc&t=147s)
 
+
+
+||과목 |기간|개요 |
+
+[git](https://uijeongg.github.io/subject)|2022년 3월|git 사용법 |
+|||||
+
+|||||
+
+|||||
+
+
+
 ### 관련 링크 
 #### [한국폴리텍대학 광명융합기술교육원 데이터분석과 github](https://koposoftware.github.io)
 #### [한국폴리텍대학 광명융합기술교육원 데이터분석과 youtube](https://www.youtube.com/channel/UCwTOdBeKnZo83qTpqc8-rTQ)
