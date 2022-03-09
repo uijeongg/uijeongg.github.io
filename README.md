@@ -20,7 +20,7 @@
 
 
 
-[git](https://uijeongg.github.io/subject)|2022년 3월|git 사용법 |
+[git](https://github.com/uijeongg/subject_git.git)|2022년 3월|git 사용법 |
 
 
 
