@@ -14,7 +14,7 @@
 
 
 ### Study record
-[git](https://uijeongg.github.io/subject_git/)|2022년 3월|git 사용법 |
+[git](https://uijeongg.github.io/subject_git/)|2022년 3월|git 사용법|
 
 
 #### cf) 힘들었지만 극복했던 점
