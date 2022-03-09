@@ -24,7 +24,4 @@
 
 
 
-### 관련 링크 
-#### [한국폴리텍대학 광명융합기술교육원 데이터분석과 github](https://koposoftware.github.io)
-#### [한국폴리텍대학 광명융합기술교육원 데이터분석과 youtube](https://www.youtube.com/channel/UCwTOdBeKnZo83qTpqc8-rTQ)
-#### [한국폴리텍대학 광명융합기술교육원 데이터분석과 홈페이지](https://www.kopo.ac.kr/gm)
+
