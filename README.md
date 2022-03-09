@@ -14,12 +14,6 @@
 
 
 ### Study record
-[Git 처음 사용법 및 홈페이지 만들기](https://www.youtube.com/watch?v=hYXh1l07WNM&t=35s)
-
-[SourceTree를 활용한 Git 사용법](https://www.youtube.com/watch?v=GDXfrJwYfDc&t=147s)
-
-
-
 [git](https://github.com/uijeongg/subject_git.git)|2022년 3월|git 사용법 |
 
 
