@@ -1,7 +1,7 @@
 # UI JEONG PAGE
 ## Welcome to My Github Pages
 
-### 자기소개
+### Introduce
 <img src="image1.jpg" /> <br>
 
 |이름|정의정|
@@ -12,14 +12,10 @@
 |수상| 2021년 노년층 금융 교육 서비스 우선 지역 파악 프로젝트 과학기술정보통신부 장관상  |
 |발표자료| [발표자료](/자기소개.pdf) <br>|
 
-### 발표자료
-[발표자료](/자기소개.pdf) <br>
 
-
-### 영상1
+### Study record
 [Git 처음 사용법 및 홈페이지 만들기](https://www.youtube.com/watch?v=hYXh1l07WNM&t=35s)
 
-### 영상2
 [SourceTree를 활용한 Git 사용법](https://www.youtube.com/watch?v=GDXfrJwYfDc&t=147s)
 
 ### 관련 링크 
