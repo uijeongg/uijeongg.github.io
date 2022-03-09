@@ -20,14 +20,7 @@
 
 
 
-||과목 |기간|개요 |
-
 [git](https://uijeongg.github.io/subject)|2022년 3월|git 사용법 |
-|||||
-
-|||||
-
-|||||
 
 
 
