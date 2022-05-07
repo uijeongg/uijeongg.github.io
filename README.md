@@ -15,7 +15,7 @@
 
 ### Study record
 [git](https://uijeongg.github.io/subject_git/)|2022년 3월|git 사용법|
-[apache-tomcat](https://uijeongg.github.io/subject_apachetomcat/)|2022년 4월|리눅스 프로그래밍|
+[linux programming](https://uijeongg.github.io/subject_apachetomcat/)|2022년 4월|리눅스 프로그래밍|
 
 
 ### cf) 힘들었지만 극복했던 점
